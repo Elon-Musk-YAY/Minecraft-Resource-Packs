@@ -1,0 +1,86 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "geek/fish"
+	},
+	"elements": [
+		{
+			"name": "missile2b",
+			"from": [21.5, -1, -5],
+			"to": [21.5, 4, 7],
+			"rotation": {"angle": -45, "axis": "z", "origin": [21.5, 1.5, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0.625], "texture": "#1"},
+				"east": {"uv": [4.75, 1.625, 5.375, 3.125], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 0.625], "texture": "#1"},
+				"west": {"uv": [4.75, 3.125, 5.375, 1.625], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 1.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "missile2a",
+			"from": [21.5, -1, -5],
+			"to": [21.5, 4, 7],
+			"rotation": {"angle": 45, "axis": "z", "origin": [21.5, 1.5, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0.625], "texture": "#1"},
+				"east": {"uv": [4.75, 1.625, 5.375, 3.125], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [0, 0, 0, 0.625], "texture": "#1"},
+				"west": {"uv": [4.75, 3.125, 5.375, 1.625], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 1.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 1.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "launcher",
+			"from": [20, -0.05, 2],
+			"to": [23, 2.95, 10],
+			"faces": {
+				"north": {"uv": [2.875, 1.75, 3.25, 2.125], "texture": "#1"},
+				"east": {"uv": [3.25, 1.75, 4.25, 2.125], "texture": "#1"},
+				"south": {"uv": [4.25, 1.75, 4.625, 2.125], "texture": "#1"},
+				"west": {"uv": [3.25, 1.75, 4.25, 2.125], "texture": "#1"},
+				"up": {"uv": [3.25, 1.75, 4.25, 2.125], "rotation": 90, "texture": "#1"},
+				"down": {"uv": [3.25, 1.75, 4.25, 2.125], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "wing2",
+			"from": [16, 3, 1],
+			"to": [30, 3, 17],
+			"faces": {
+				"north": {"uv": [1, 1, 2.75, 1], "texture": "#1"},
+				"east": {"uv": [0, 1, 1, 1.625], "texture": "#1"},
+				"south": {"uv": [2.375, 1, 2.75, 1.625], "texture": "#1"},
+				"west": {"uv": [1.375, 1, 2.375, 1.625], "texture": "#1"},
+				"up": {"uv": [1.875, 3.5, 0.125, 1.5], "texture": "#1"},
+				"down": {"uv": [1.875, 1.5, 0.125, 3.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, 17, 22],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [-6, 17, 22],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, 11.5, -31.25],
+			"scale": [3.28, 3.28, 3.28]
+		}
+	},
+	"groups": [
+		{
+			"name": "wing2",
+			"origin": [0, 0, 0],
+			"children": [0, 1, 2, 3]
+		}
+	]
+}

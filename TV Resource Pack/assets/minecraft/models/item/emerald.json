@@ -1,0 +1,82 @@
+{
+      "parent": "item/generated",
+      "textures": {
+        "layer0": "item/emerald"
+      },
+
+       "overrides": [
+     { "predicate": {"custom_model_data": 1}, "model": "warped/tv"},
+     { "predicate": {"custom_model_data": 2}, "model": "warped/tv_off"},
+     { "predicate": {"custom_model_data": 3}, "model": "warped/tv_1"},
+     { "predicate": {"custom_model_data": 4}, "model": "warped/tv_2"},
+     { "predicate": {"custom_model_data": 5}, "model": "warped/tv_3"},
+     { "predicate": {"custom_model_data": 6}, "model": "warped/tv_4"},
+     { "predicate": {"custom_model_data": 7}, "model": "warped/tv_5"},
+     { "predicate": {"custom_model_data": 8}, "model": "warped/tv_6"},
+     { "predicate": {"custom_model_data": 9}, "model": "warped/tv_7"},
+     { "predicate": {"custom_model_data": 10}, "model": "warped/tv_8"},
+     { "predicate": {"custom_model_data": 11}, "model": "warped/tv_9"},
+     { "predicate": {"custom_model_data": 12}, "model": "warped/tv_10"},
+     { "predicate": {"custom_model_data": 13}, "model": "warped/tv_11"},
+
+
+     { "predicate": {"custom_model_data": 14}, "model": "crimson/tv"},
+     { "predicate": {"custom_model_data": 15}, "model": "crimson/tv_off"},
+     { "predicate": {"custom_model_data": 16}, "model": "crimson/tv_1"},
+     { "predicate": {"custom_model_data": 17}, "model": "crimson/tv_2"},
+     { "predicate": {"custom_model_data": 18}, "model": "crimson/tv_3"},
+     { "predicate": {"custom_model_data": 19}, "model": "crimson/tv_4"},
+     { "predicate": {"custom_model_data": 20}, "model": "crimson/tv_5"},
+     { "predicate": {"custom_model_data": 21}, "model": "crimson/tv_6"},
+     { "predicate": {"custom_model_data": 22}, "model": "crimson/tv_7"},
+     { "predicate": {"custom_model_data": 23}, "model": "crimson/tv_8"},
+     { "predicate": {"custom_model_data": 24}, "model": "crimson/tv_9"},
+     { "predicate": {"custom_model_data": 25}, "model": "crimson/tv_10"},
+     { "predicate": {"custom_model_data": 26}, "model": "crimson/tv_11"},
+
+
+     { "predicate": {"custom_model_data": 27}, "model": "none/tv"},
+     { "predicate": {"custom_model_data": 28}, "model": "none/tv_off"},
+     { "predicate": {"custom_model_data": 29}, "model": "none/tv_1"},
+     { "predicate": {"custom_model_data": 30}, "model": "none/tv_2"},
+     { "predicate": {"custom_model_data": 31}, "model": "none/tv_3"},
+     { "predicate": {"custom_model_data": 32}, "model": "none/tv_4"},
+     { "predicate": {"custom_model_data": 33}, "model": "none/tv_5"},
+     { "predicate": {"custom_model_data": 34}, "model": "none/tv_6"},
+     { "predicate": {"custom_model_data": 35}, "model": "none/tv_7"},
+     { "predicate": {"custom_model_data": 36}, "model": "none/tv_8"},
+     { "predicate": {"custom_model_data": 37}, "model": "none/tv_9"},
+     { "predicate": {"custom_model_data": 38}, "model": "none/tv_10"},
+     { "predicate": {"custom_model_data": 39}, "model": "none/tv_11"},
+
+     { "predicate": {"custom_model_data": 40}, "model": "soul/tv"},
+     { "predicate": {"custom_model_data": 41}, "model": "soul/tv_off"},
+     { "predicate": {"custom_model_data": 42}, "model": "soul/tv_1"},
+     { "predicate": {"custom_model_data": 43}, "model": "soul/tv_2"},
+     { "predicate": {"custom_model_data": 44}, "model": "soul/tv_3"},
+     { "predicate": {"custom_model_data": 45}, "model": "soul/tv_4"},
+     { "predicate": {"custom_model_data": 46}, "model": "soul/tv_5"},
+     { "predicate": {"custom_model_data": 47}, "model": "soul/tv_6"},
+     { "predicate": {"custom_model_data": 48}, "model": "soul/tv_7"},
+     { "predicate": {"custom_model_data": 49}, "model": "soul/tv_8"},
+     { "predicate": {"custom_model_data": 50}, "model": "soul/tv_9"},
+     { "predicate": {"custom_model_data": 51}, "model": "soul/tv_10"},
+     { "predicate": {"custom_model_data": 52}, "model": "soul/tv_11"},
+
+
+     { "predicate": {"custom_model_data": 53}, "model": "emerald/tv"},
+     { "predicate": {"custom_model_data": 54}, "model": "emerald/tv_off"},
+     { "predicate": {"custom_model_data": 55}, "model": "emerald/tv_1"},
+     { "predicate": {"custom_model_data": 56}, "model": "emerald/tv_2"},
+     { "predicate": {"custom_model_data": 57}, "model": "emerald/tv_3"},
+     { "predicate": {"custom_model_data": 58}, "model": "emerald/tv_4"},
+     { "predicate": {"custom_model_data": 59}, "model": "emerald/tv_5"},
+     { "predicate": {"custom_model_data": 60}, "model": "emerald/tv_6"},
+     { "predicate": {"custom_model_data": 61}, "model": "emerald/tv_7"},
+     { "predicate": {"custom_model_data": 62}, "model": "emerald/tv_8"},
+     { "predicate": {"custom_model_data": 63}, "model": "emerald/tv_9"},
+     { "predicate": {"custom_model_data": 64}, "model": "emerald/tv_10"},
+     { "predicate": {"custom_model_data": 65}, "model": "emerald/tv_11"}
+    ]  
+    
+   }

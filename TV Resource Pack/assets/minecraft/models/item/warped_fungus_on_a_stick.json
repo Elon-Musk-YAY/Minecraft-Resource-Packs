@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+      "layer0": "item/warped_fungus_on_a_stick"
+    },
+
+     "overrides": [
+   { "predicate": {"custom_model_data": 1}, "model": "custom/tv_remote"},
+   { "predicate": {"custom_model_data": 2}, "model": "custom/crimson_stone"},
+   { "predicate": {"custom_model_data": 3}, "model": "custom/warped_stone"},
+   { "predicate": {"custom_model_data": 4}, "model": "custom/soul_stone"},
+   { "predicate": {"custom_model_data": 5}, "model": "custom/emerald_stone"},
+   { "predicate": {"custom_model_data": 6}, "model": "custom/power_core"}
+  ]
+  
+ }
